@@ -5,7 +5,7 @@ An interactive executive sales dashboard built in Microsoft Excel to analyze rev
 
 ---
 ## Project Overview
-![Chicken_Republic_Lagos_Sales_Optimization]./E-commerce_Dashboard.gif)
+![Chicken_Republic_Lagos_Sales_Optimization](./chicken_republic_dashboard.gif)
 
 
 ## Data Cleaning & Transformation Pipeline
@@ -47,3 +47,8 @@ Rather than hardcoding static formulas, PivotTables were leveraged to calculate 
 * PivotTable Aggregations & PivotCharts
 * Range Helper Logic (`SUM`, Dynamic Mapping for UI Shapes)
 * Dashboard UI/UX Design & Brand Color Palette Integration (Red `#DD3333` & Gold `#FDB92E`)
+
+* ## Repository Structure
+* `chicken_republic_lagos_sales_optimization.xlsx`: Complete Excel workbook containing raw transaction data, data cleaning steps, PivotTables, helper ranges, and the interactive dashboard tab.
+* `chicken_republic_dashboard.gif`: Animated demonstration showing interactive Slicer filtering across KPI cards, line chart trends, volume distributions, and branch profit summaries.
+---
