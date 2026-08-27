@@ -4,6 +4,9 @@
 An interactive executive sales dashboard built in Microsoft Excel to analyze revenue, product volume, and branch profitability for Chicken Republic locations across Lagos, Nigeria, covering transaction data from **January to June 2024**.
 
 ---
+## Project Overview
+![Chicken_Republic_Lagos_Sales_Optimization]./E-commerce_Dashboard.gif)
+
 
 ## Data Cleaning & Transformation Pipeline
 Prior to visual modeling, raw transaction data was audited and standardized:
